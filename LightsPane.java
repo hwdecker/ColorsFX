@@ -1,13 +1,3 @@
-/*-------------------------------------------------------------
- * Name: Hayden Decker
- * Date: 9/13/2020
- * Instructor: Krishna Nandanoor
- * Class: LightsPane
- * Purpose: To set up a grid pane, array, buttons, and their 
- * funtions.
- * ------------------------------------------------------------
- */
-
 import javafx.event.ActionEvent;
 import javafx.geometry.Pos;
 import javafx.scene.control.Label;
