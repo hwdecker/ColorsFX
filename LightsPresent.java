@@ -1,12 +1,3 @@
-/*-------------------------------------------------------------
- * Name: Hayden Decker
- * Date: 9/13/2020
- * Instructor: Krishna Nandanoor
- * Class: LightsPresent
- * Purpose: To adjust the stage's window and launch it.
- * ------------------------------------------------------------
- */
-
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
